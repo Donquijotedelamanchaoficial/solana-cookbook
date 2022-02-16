@@ -52,6 +52,7 @@ The Cookbook is designed in a way that makes it easy for
 new Solana developers to contribute. Even if you 
 don't know how to do something, contributing to the 
 cookbook is a great way to learn!
+In this Cookbook everybody can be a part of the project and influence somehow in the final outcome, everyone has somthing to add.
 
 Check out all open issues [here](https://github.com/solana-dev-adv/solana-cookbook/issues). Contribution guidelines [here](https://github.com/solana-dev-adv/solana-cookbook#contributing). If you find the cookbook is missing a suggestion, please add an issue.
 
